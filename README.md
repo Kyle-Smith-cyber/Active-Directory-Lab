@@ -70,3 +70,7 @@ This project strengthened my practical skills in **Windows Server administration
 **Renaming windows 10 machine**
 ![](images/Screenshot%202025-11-20%20172307.png)
 
+**Configuring a static IP for Windows 10 Machine**
+![](images/Screenshot%202025-11-20%20201614.png)
+
+
