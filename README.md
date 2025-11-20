@@ -55,3 +55,5 @@ This project strengthened my practical skills in **Windows Server administration
 
 **Configuring a static IP on the server**
 ![](images/Screenshot%202025-11-20%20151548.png)
+
+**Installing Active Directory Domain Services (AD DS) via Server Manager**
