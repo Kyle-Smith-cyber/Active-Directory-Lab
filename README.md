@@ -41,9 +41,3 @@ This lab demonstrates the creation and configuration of a **Windows Server 2019 
 
 This project strengthened my practical skills in **Windows Server administration**, **enterprise networking**, and **security best practices**.
 
----
-
-## Walkthrough & Screenshots
-
-
-**1. Installing Windows Server 2019**
