@@ -19,15 +19,6 @@ This project simulates a small enterprise environment and demonstrates practical
 
 ---
 
-## Folder Structure
-- `01-Installation` – Windows Server & Windows 10 setup screenshots  
-- `02-Network-Configuration` – Server static IP setup  
-- `03-ActiveDirectory-Setup` – AD DS install, DC promotion, domain join  
-- `04-Users-Groups-GPOs` – OUs, users, groups, and GPOs  
-- `05-File-Shares` – Shared folders and permissions  
-- `06-Testing-Validation` – Test results & verification screenshots
-
----
 
 ## Conclusion
 This lab demonstrates the creation and configuration of a **Windows Server 2019 Active Directory environment** with domain-joined Windows 10 clients.  
