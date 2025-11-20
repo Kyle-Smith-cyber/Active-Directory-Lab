@@ -7,7 +7,7 @@ This project simulates a small enterprise environment and demonstrates practical
 
 ---
 
-## Architecture Diagram
+
 **Components Involved:**
 - **Windows Server 2016** – AD Domain Controller (DC), DNS, DHCP  
 - **Windows 10** – Client machine (joined to the AD domain)  
@@ -68,5 +68,5 @@ This project strengthened my practical skills in **Windows Server administration
 ![](images/Screenshot%202025-11-20%20170908.png)
 
 **Renaming windows 10 machine**
-![](images/Screenshot%202025-11-20%20170919.png)
+![](images/Screenshot%202025-11-20%20172307.png)
 
