@@ -56,4 +56,17 @@ This project strengthened my practical skills in **Windows Server administration
 **Configuring a static IP on the server**
 ![](images/Screenshot%202025-11-20%20151548.png)
 
-**Installing Active Directory Domain Services (AD DS) via Server Manager**
+**Installing Windows 10**
+![](images/Screenshot%202025-11-20%20170516.png)
+![](images/Screenshot%202025-11-20%20170800.png)
+![](images/Screenshot%202025-11-20%20170809.png)
+![](images/Screenshot%202025-11-20%20170819.png)
+![](images/Screenshot%202025-11-20%20170828.png)
+![](images/Screenshot%202025-11-20%20170841.png)
+![](images/Screenshot%202025-11-20%20170851.png)
+![](images/Screenshot%202025-11-20%20170900.png)
+![](images/Screenshot%202025-11-20%20170908.png)
+
+**Renaming windows 10 machine**
+![](images/Screenshot%202025-11-20%20170919.png)
+
