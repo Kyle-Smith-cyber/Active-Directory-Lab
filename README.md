@@ -47,6 +47,5 @@ This project strengthened my practical skills in **Windows Server administration
 ![Screenshot 5](images/Screenshot%202025-11-20%20140358.png)
 ![Screenshot 6](images/Screenshot%202025-11-20%20140413.png)
 ![Screenshot 7](images/Screenshot%202025-11-20%20140431.png)
-![Screenshot 8](images/Screenshot%202025-11-20%20140447.png)
 ![Screenshot 9](images/Screenshot%202025-11-20%20140504.png)
 
