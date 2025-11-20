@@ -1,7 +1,7 @@
 # Active Directory Lab – Windows Server & Windows 10
 
 ## Project Overview
-The purpose of this project is to build a virtual Active Directory (AD) environment for hands-on learning in network and system administration. The lab involves **Windows Server 2019** as a Domain Controller and **Windows 10** clients, with a focus on configuring AD services, managing users and groups, applying Group Policies, and controlling file share permissions.
+The purpose of this project is to build a virtual Active Directory (AD) environment for hands-on learning in network and system administration. The lab involves **Windows Server 2016** as a Domain Controller and **Windows 10** clients, with a focus on configuring AD services, managing users and groups, applying Group Policies, and controlling file share permissions.
 
 This project simulates a small enterprise environment and demonstrates practical skills in network configuration, user management, and domain-based security controls.
 
@@ -9,7 +9,7 @@ This project simulates a small enterprise environment and demonstrates practical
 
 ## Architecture Diagram
 **Components Involved:**
-- **Windows Server 2019** – AD Domain Controller (DC), DNS, DHCP  
+- **Windows Server 2016** – AD Domain Controller (DC), DNS, DHCP  
 - **Windows 10** – Client machine (joined to the AD domain)  
 - **Internal Network (VirtualBox Host-Only)** – Simulated LAN for AD communication  
 - **Group Policies (GPOs)** – Password policies, account lockout policies  
