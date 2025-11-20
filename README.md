@@ -38,5 +38,5 @@ This project strengthened my practical skills in **Windows Server administration
 ## Walkthrough & Screenshots **1. Installing Windows Server 2016**
 
 
-
+![Starting installation](images/Screenshot%202025-11-20%20140134.png)
 
