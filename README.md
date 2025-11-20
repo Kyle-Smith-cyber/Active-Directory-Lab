@@ -37,7 +37,7 @@ This project strengthened my practical skills in **Windows Server administration
 
 ## Walkthrough & Screenshots
 
-**1. Installing Windows Server 2016**
+**Installing Windows Server 2016**
 
 
 ![Starting installation](images/Screenshot%202025-11-20%20140134.png)
@@ -49,3 +49,9 @@ This project strengthened my practical skills in **Windows Server administration
 ![Screenshot 7](images/Screenshot%202025-11-20%20140431.png)
 ![Screenshot 9](images/Screenshot%202025-11-20%20140504.png)
 
+**Renaming the server to AD-SERVER**
+
+![](images/Screenshot%202025-11-20%20151227.png)
+
+**Configuring a static IP on the server**
+![](images/Screenshot%202025-11-20%20151548.png)
