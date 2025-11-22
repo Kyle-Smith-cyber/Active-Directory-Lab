@@ -73,4 +73,5 @@ This project strengthened my practical skills in **Windows Server administration
 **Configuring a static IP for Windows 10 Machine**
 ![](images/Screenshot%202025-11-20%20201614.png)
 
-
+---
+**Installing Active Directory Domain Services (AD DS)**
