@@ -89,3 +89,28 @@ This project strengthened my practical skills in **Windows Server administration
 ![](images/forest.png)
 ![](images/password.png)
 ![](images/install2.png)
+
+---
+**Verify DNS is working**
+
+DNS is critical. To check that it is working correctly I went to the command prompt typed in the command ipconfig /all and made sure that the preffered DNS = the server's own IP (192.168.1.10)
+![](images/cmd.png)
+![](images/ipconfigall.png)
+![](images/dnsresults.png)
+
+---
+**Join the Windows 10 Machine to the Domain**
+
+To do this, I went to System > Rename this PC (advanced). Then I clicked change, selected domain, entered the domain name (lab.local). Lastly I entered the domain admin credentials. The client then rebooted and after reboot I can log in as lab\Administrator
+
+![](images/system.png)
+![](images/renamepc.png)
+![](images/change.png)
+![](images/selectdomain.png)
+![](images/admindetails.png)
+
+
+
+
+
+
