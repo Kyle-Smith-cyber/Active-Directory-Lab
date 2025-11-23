@@ -75,3 +75,9 @@ This project strengthened my practical skills in **Windows Server administration
 
 ---
 **Installing Active Directory Domain Services (AD DS)**
+
+![](images/add%20roles%20and%20features.png)
+![](images/choose%20role%20based%20installation.png)
+![](images/select%20the%20server.png)
+![](images/tick%20active%20directory%20domain%20services.png)
+![](images/install.png)
