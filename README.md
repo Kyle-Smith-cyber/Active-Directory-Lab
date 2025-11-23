@@ -109,6 +109,13 @@ To do this, I went to System > Rename this PC (advanced). Then I clicked change,
 ![](images/selectdomain.png)
 ![](images/admindetails.png)
 
+---
+
+**Create AD structure**
+
+
+
+
 
 
 
