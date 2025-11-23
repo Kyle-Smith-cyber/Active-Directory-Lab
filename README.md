@@ -101,7 +101,7 @@ DNS is critical. To check that it is working correctly I went to the command pro
 ---
 **Join the Windows 10 Machine to the Domain**
 
-To do this, I went to System > Rename this PC (advanced). Then I clicked change, selected domain, entered the domain name (lab.local). Lastly I entered the domain admin credentials. The client then rebooted and after reboot I can log in as lab\Administrator
+To do this, I went to System > Rename this PC (advanced). Then I clicked change, selected domain, entered the domain name (lab.local). Lastly I entered the domain admin credentials. The client then rebooted for changes to occur.
 
 ![](images/system.png)
 ![](images/renamepc.png)
