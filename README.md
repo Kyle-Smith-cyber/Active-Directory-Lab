@@ -81,3 +81,11 @@ This project strengthened my practical skills in **Windows Server administration
 ![](images/select%20the%20server.png)
 ![](images/tick%20active%20directory%20domain%20services.png)
 ![](images/install.png)
+
+---
+**Promote Server to a Domain Controller**
+
+![](images/promote.png)
+![](images/forest.png)
+![](images/password.png)
+![](images/install2.png)
