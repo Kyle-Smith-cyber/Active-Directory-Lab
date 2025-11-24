@@ -135,5 +135,23 @@ To do this, I went to System > Rename this PC (advanced). Then I clicked change,
 
 
 
+**Creating security groups**
+
+![](images/Screenshot%202025-11-24%20123203.png)
+![](images/Screenshot%202025-11-24%20123234.png)
+![](images/Screenshot%202025-11-24%20123256.png)
+![](images/Screenshot%202025-11-24%20123313.png)
+![](images/Screenshot%202025-11-24%20123335.png)
+![](images/Screenshot%202025-11-24%20123537.png)
+
+
+**Adding users to their groups**
+
+![](images/Screenshot%202025-11-24%20123801.png)
+![](images/Screenshot%202025-11-24%20130623.png)
+![](images/Screenshot%202025-11-24%20130635.png)
+![](images/Screenshot%202025-11-24%20130705.png)
+![](images/Screenshot%202025-11-24%20130715.png)
+
 
 
