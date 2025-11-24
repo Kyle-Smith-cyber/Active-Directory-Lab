@@ -178,12 +178,12 @@ To do this, I went to System > Rename this PC (advanced). Then I clicked change,
 ![](images/Screenshot%202025-11-24%20132117.png)
 ![](images/Screenshot%202025-11-24%20132409.png)
 ![](images/Screenshot%202025-11-24%20132439.png)
-![](images/Screenshot%202025-11-24%20132535.png)
 ![](images/Screenshot%202025-11-24%20132840.png)
 ![](images/Screenshot%202025-11-24%20132939.png)
 ![](images/Screenshot%202025-11-24%20133106.png)
 ![](images/Screenshot%202025-11-24%20133248.png)
 ![](images/Screenshot%202025-11-24%20133346.png)
 ![](images/Screenshot%202025-11-24%20133438.png)
+![](images/Screenshot%202025-11-24%20132535.png)
 ![](images/Screenshot%202025-11-24%20133832.png)
 
