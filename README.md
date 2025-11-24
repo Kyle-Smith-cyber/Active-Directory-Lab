@@ -187,3 +187,6 @@ To do this, I went to System > Rename this PC (advanced). Then I clicked change,
 ![](images/Screenshot%202025-11-24%20132535.png)
 ![](images/Screenshot%202025-11-24%20133832.png)
 
+
+**Creating a GPO for Standard Users**
+
