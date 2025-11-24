@@ -154,4 +154,36 @@ To do this, I went to System > Rename this PC (advanced). Then I clicked change,
 ![](images/Screenshot%202025-11-24%20130715.png)
 
 
+**Creating an Admin level user**
+
+![](images/Screenshot%202025-11-24%20131054.png)
+![](images/Screenshot%202025-11-24%20131129.png)
+![](images/Screenshot%202025-11-24%20131151.png)
+![](images/Screenshot%202025-11-24%20131200.png)
+![](images/Screenshot%202025-11-24%20131228.png)
+![](images/Screenshot%202025-11-24%20131256.png)
+![](images/Screenshot%202025-11-24%20131329.png)
+![](images/Screenshot%202025-11-24%20131340.png)
+
+---
+
+**Group Policies**
+
+1. A baseline policy for all computers (password policies, firewall, Windows Update)
+2. A user policy for standard users (desktop wallpaper, restrictions, drive mapping)
+3. A server management policy (administrative tools unlocked for IT staff)
+
+**Creating a Baseline GPO for All Domain Computers**
+
+![](images/Screenshot%202025-11-24%20132117.png)
+![](images/Screenshot%202025-11-24%20132409.png)
+![](images/Screenshot%202025-11-24%20132439.png)
+![](images/Screenshot%202025-11-24%20132535.png)
+![](images/Screenshot%202025-11-24%20132840.png)
+![](images/Screenshot%202025-11-24%20132939.png)
+![](images/Screenshot%202025-11-24%20133106.png)
+![](images/Screenshot%202025-11-24%20133248.png)
+![](images/Screenshot%202025-11-24%20133346.png)
+![](images/Screenshot%202025-11-24%20133438.png)
+![](images/Screenshot%202025-11-24%20133832.png)
 
