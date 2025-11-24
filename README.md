@@ -125,6 +125,13 @@ To do this, I went to System > Rename this PC (advanced). Then I clicked change,
 ![](images/Screenshot%202025-11-24%20121516.png)
 
 
+**Creating regular user accounts**
+
+![](images/Screenshot%202025-11-24%20122224.png)
+![](images/Screenshot%202025-11-24%20122503.png)
+![](images/Screenshot%202025-11-24%20122547.png)
+![](images/Screenshot%202025-11-24%20122628.png)
+![](images/Screenshot%202025-11-24%20122717.png)
 
 
 
