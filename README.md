@@ -111,9 +111,18 @@ To do this, I went to System > Rename this PC (advanced). Then I clicked change,
 
 ---
 
-**Create AD structure**
+**Create AD Orginisational Unit (OU) structure**
+
+![](images/Screenshot%202025-11-24%20121128.png)
+![](images/Screenshot%202025-11-24%20121229.png)
+![](images/Screenshot%202025-11-24%20121254.png)
+![](images/Screenshot%202025-11-24%20121319.png)
+![](images/Screenshot%202025-11-24%20121404.png)
+![](images/Screenshot%202025-11-24%20121423.png)
 
 
+**Moving The Windows 10 Machine into "Lab Computers"
+![](images/Screenshot%202025-11-24%20121516.png)
 
 
 
