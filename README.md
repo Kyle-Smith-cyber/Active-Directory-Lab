@@ -121,7 +121,7 @@ To do this, I went to System > Rename this PC (advanced). Then I clicked change,
 ![](images/Screenshot%202025-11-24%20121423.png)
 
 
-**Moving The Windows 10 Machine into "Lab Computers"
+**Moving The Windows 10 Machine into "Lab Computers"**
 ![](images/Screenshot%202025-11-24%20121516.png)
 
 
