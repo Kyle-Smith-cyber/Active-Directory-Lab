@@ -288,3 +288,81 @@ Remove Task Manager → Disabled
 Finally, I linked IT Admin GPO 
 
 ![](images/Screenshot%202025-11-26%20124124.png)
+
+
+**Setting Up Shared Folders and Permissions**
+
+
+
+To create the main share folder I went to File Explorer → C:\ . Then I created a folder named: C:\Shares. 
+
+![]()
+
+
+Inside it I created four new folders:
+
+C:\Shares\Admin
+
+C:\Shares\Finance
+
+C:\Shares\HR
+
+C:\Shares\IT
+
+![]()
+
+Next I set up NTFS permissions. I did this by right-clicking C:\Shares\Admin, Select Properties → Security → Advanced.
+
+Click Disable inheritance → Convert.
+   
+Removed everything except: SYSTEM, Administrators and CREATER OWNER.
+
+![]()
+![]()
+
+Add → Select a principal → type:
+
+Admin  → Give Modify
+
+![]()
+
+Domain Admins → Give Full control
+
+![]()
+
+I then repeated this process for the other folders:
+
+Finance:
+
+Finance → Modify
+
+Domain Admins → Full
+
+HR:
+
+HR → Modify
+
+Domain Admins → Full
+
+IT:
+
+IT → Modify
+
+Domain Admins → Full
+
+
+![]()
+![]()
+![]()
+
+
+Next I created the Network Shares. I did this by right clicking C:\Shares\Finance. Click Properties → Sharing → Advanced Sharing. Tick Share this folder. Share name: Finance. Click Permissions. Remove Everyone. Add Finance → Full Control, Domain Admins → Full Control. I repeated this for each share.
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
