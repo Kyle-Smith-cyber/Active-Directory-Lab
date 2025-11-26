@@ -247,3 +247,44 @@ Apply → OK.
 Finally I linked the GPO to the Users OU.
 
 ![](images/Screenshot%202025-11-26%20121117.png)
+
+**Creating a GPO for IT Admin Users**
+
+Back in Group Policy Management:
+
+Right-click Group Policy Objects → New
+
+Then I named it "GPO - IT Admin Tools"
+
+![](images/Screenshot%202025-11-26%20123135.png)
+
+Next I edited the GPO to first enable admin tools by going to User Configuration → Administrative Templates → Control Panel → Control Panel: Prohibit access to Control Panel
+
+Set to Disabled
+
+![](images/Screenshot%202025-11-26%20123410.png)
+
+I then enabled command prompt by navigating to User Configuration → Administrative Templates → System.
+
+Prevent Access to Command Prompt → Disabled
+Prevent access to registry editing tools → Disabled
+
+![](images/Screenshot%202025-11-26%20123528.png)
+![](images/Screenshot%202025-11-26%20123547.png)
+
+Next I enabled PowerShell by going to User Configuration → Administrative Templates → Windows Components → Windows PowerShell.
+
+Turn on Script Execution → Enabled
+Allow all scripts 
+
+![](images/Screenshot%202025-11-26%20123831.png)
+
+Next I allowed Task Manager by going to User Configuration → Administrative Templates → System → Ctrl+Alt+Del Options.
+
+Remove Task Manager → Disabled
+
+![](images/Screenshot%202025-11-26%20123952.png)
+
+Finally, I linked IT Admin GPO 
+
+![](images/Screenshot%202025-11-26%20124124.png)
