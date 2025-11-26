@@ -190,3 +190,60 @@ To do this, I went to System > Rename this PC (advanced). Then I clicked change,
 
 **Creating a GPO for Standard Users**
 
+I first created the GPO by going to Start → Group Policy Management (gpmc.msc). Expand Forest → Domains → lab.local → Group Policy Objects. Right-click Group Policy Objects → New. Then I named the GPO "GPO - Standard User Experience"
+
+![](images/Screenshot%202025-11-26%20114703.png)
+
+Then I edited the GPO by first setting a Desktop wallpaper. User Configuration → Policies → Administrative Templates → Desktop → Desktop → Desktop Wallpaper. 
+
+Set: Wallpaper Name: \\lab.local\SYSVOL\lab.local\scripts\wallpaper.jpg 
+
+Wallpaper Style: Fill (or Fit)
+
+Apply → OK.
+
+![](images/Screenshot%202025-11-26%20115305.png)
+
+
+Next I disabled control panel access. User Configuration → Administrative Templates → Control Panel → Prohibit access to Control Panel and Settings
+
+Set to Enabled.
+
+![](images/Screenshot%202025-11-26%20115407.png)
+
+
+After that I hid tools by going to User Configuration → Administrative Templates → Start Menu and Taskbar.
+
+I first enabled Remove Run menu from Start Menu
+![](images/Screenshot%202025-11-26%20115651.png)
+
+I then enabled prevent access to the command prompt
+![](images/Screenshot%202025-11-26%20120338.png)
+
+I then removed task manager
+![](images/Screenshot%202025-11-26%20120649.png)
+
+After this I set up drive mapping by going to User Configuration → Preferences → Windows Settings → Drive Maps.
+
+Right-click → New → Mapped Drive
+
+Set:
+
+Action: Update
+
+Location: \\lab-dc\Shared (you’ll create this folder in step 7)
+
+Drive Letter: H:
+
+Label: Shared Drive (optional)
+
+Apply → OK.
+
+![](images/Screenshot%202025-11-26%20120828.png)
+![](images/Screenshot%202025-11-26%20120914.png)
+![](images/Screenshot%202025-11-26%20120955.png)
+
+
+Finally I linked the GPO to the Users OU.
+
+![](images/Screenshot%202025-11-26%20121117.png)
