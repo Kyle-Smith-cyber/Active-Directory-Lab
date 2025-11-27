@@ -296,7 +296,7 @@ Finally, I linked IT Admin GPO
 
 To create the main share folder I went to File Explorer → C:\ . Then I created a folder named: C:\Shares. 
 
-![]()
+![](images/Screenshot%202025-11-26%20125347.png)
 
 
 Inside it I created four new folders:
@@ -309,7 +309,7 @@ C:\Shares\HR
 
 C:\Shares\IT
 
-![]()
+![](images/Screenshot%202025-11-26%20131511.png)
 
 Next I set up NTFS permissions. I did this by right-clicking C:\Shares\Admin, Select Properties → Security → Advanced.
 
@@ -317,18 +317,18 @@ Click Disable inheritance → Convert.
    
 Removed everything except: SYSTEM, Administrators and CREATER OWNER.
 
-![]()
-![]()
+![](images/Screenshot%202025-11-26%20131816.png)
+![](images/Screenshot%202025-11-26%20131919.png)
 
 Add → Select a principal → type:
 
 Admin  → Give Modify
 
-![]()
+![](images/Screenshot%202025-11-26%20133300.png)
 
 Domain Admins → Give Full control
 
-![]()
+![](images/Screenshot%202025-11-26%20134133.png)
 
 I then repeated this process for the other folders:
 
@@ -351,18 +351,27 @@ IT → Modify
 Domain Admins → Full
 
 
-![]()
-![]()
-![]()
+![](images/Screenshot%202025-11-26%20134306.png)
+![](images/Screenshot%202025-11-26%20134452.png)
+![](images/Screenshot%202025-11-26%20134542.png)
 
 
 Next I created the Network Shares. I did this by right clicking C:\Shares\Finance. Click Properties → Sharing → Advanced Sharing. Tick Share this folder. Share name: Finance. Click Permissions. Remove Everyone. Add Finance → Full Control, Domain Admins → Full Control. I repeated this for each share.
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![](images/Screenshot%202025-11-26%20134946.png)
+![](images/Screenshot%202025-11-26%20135013.png)
+![](images/Screenshot%202025-11-26%20135036.png)
+![](images/Screenshot%202025-11-26%20135100.png)
+![](images/Screenshot%202025-11-26%20135123.png)
+![](images/Screenshot%202025-11-26%20135249.png)
+![](images/Screenshot%202025-11-26%20135335.png)
+![](images/Screenshot%202025-11-26%20135418.png)
+
+---
+
+**Testing**
+
+Test 1: User Onboarding
+
+
+
