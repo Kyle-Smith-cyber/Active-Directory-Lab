@@ -373,5 +373,37 @@ Next I created the Network Shares. I did this by right clicking C:\Shares\Financ
 
 Test 1: User Onboarding
 
+To do this I first went to Active Directory Users and Computers, then I navigated to the "Users" OU and created a new user with the following details:
 
+First name: Test
+
+Last name: User
+
+User logon name: test.user
+
+![](images/Screenshot%202025-11-27%20113905.png)
+
+I then set up a password and added the test user to the HR group.
+
+![](images/Screenshot%202025-11-27%20113946.png)
+
+Next I went to test the login from Windows 10 Client and the login was a success.
+
+![](images/Screenshot%202025-11-27%20114254.png)
+
+
+Test 2: Password policy: test complexity enforcement
+
+First I tried to change to a weak password on the Windows 10 machine as the test.user account. To do this I pressed Ctrl+Alt+Del and selected Change Password and entered a weak password "1234". As expected, Windows rejects this with the following message:
+
+![](images/Screenshot%202025-11-27%20114824.png)
+
+Test 3: Unlocking a user account
+
+I setup a trigger unlock threshold in the password policy to lock the test user out of the account and unlocked the account via active directory.
+
+![](images/Screenshot%202025-11-27%20121732.png)
+![](images/Screenshot%202025-11-27%20121949.png)
+![](images/Screenshot%202025-11-27%20122005.png)
+![](images/Screenshot%202025-11-27%20122038.png)
 
